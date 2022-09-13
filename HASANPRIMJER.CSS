@@ -1,0 +1,130 @@
+
+
+ .la {
+
+
+   display: flex; 
+   justify-content: center;
+   color: #fff!important;
+   font-size: 35px;
+   padding-bottom: 15px;
+
+ }
+
+ .in {
+
+   display: flex;
+   justify-content: center;
+   color: rgba(255,255,255,.65)!important;
+   font-size: 20px;
+   padding-bottom: 50px;
+    
+
+ }
+
+ .button1 {
+
+   display: flex;
+   margin: auto;
+   background-color: transparent;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   padding-left: 20px;  
+   padding-right: 20px;
+   border-color: orange;
+   color: white;
+   font-weight: bold;
+   font-size: 10px;
+   
+
+ }
+
+ .land {
+      display: flex;
+      justify-content: center;
+      padding-top: 120px;
+      padding-bottom: 25px;
+      font-size: 30px;
+ }
+
+ .incl {
+   display: flex; 
+   justify-content: center;
+   color: #6c757d!important;
+   padding-bottom: 25px;
+   text-align: center;
+ }
+
+.head {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+
+  .polish {
+
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   color: #6c757d!important;
+
+  }
+
+  .theme {
+
+   text-align: center;
+   padding-bottom: 20px;  
+
+  }
+
+  .yuri {
+
+   text-decoration: underline;
+   text-decoration-style: wavy;
+   text-decoration-color: #f5ba4b;
+
+  }
+
+  .buttonDOC {
+   
+   border-radius: none;
+   border-color: #f5ba4b;
+   background-color:transparent;
+   padding-top: 16px;
+   padding-bottom: 16px;
+   padding-left: 20px;
+   padding-right: 20px;
+
+  }
+
+ .buttonDOC:hover {
+
+   color: #f5ba4b;
+
+ }
+
+ .soha {
+
+   height: 200px; 
+   width: 500px;
+   background-color: #f5ba4b;
+   position: absolute;
+   z-index: -1;
+   bottom: 70px;
+
+ }
+
+.list-item-icon {
+  color: orange;
+}
+ 
+
+.list-item-icon::before {
+  content: '\f00c';
+  margin-right: 1em;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: #f5ba4b;
+}

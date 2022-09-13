@@ -1,0 +1,19 @@
+$color-primary: #f5ba4b;
+
+.quote-section {
+    
+    &-description {
+        text-align: center;
+        padding-bottom: 20px;  
+    }
+
+    &-author {
+        text-decoration: underline;
+        text-decoration-style: wavy;
+        text-decoration-color: $color-primary;
+    }
+}
+
+.pt-6 {
+    padding-top: 60px !important;
+}

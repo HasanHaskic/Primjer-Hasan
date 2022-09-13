@@ -1,0 +1,15 @@
+.quote-section-description {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.quote-section-author {
+  text-decoration: underline;
+  -webkit-text-decoration-style: wavy;
+          text-decoration-style: wavy;
+  -webkit-text-decoration-color: #f5ba4b;
+          text-decoration-color: #f5ba4b;
+}
+
+.pt-6 {
+  padding-top: 60px !important;
+}/*# sourceMappingURL=HASANPRIMJERSASS.css.map */
